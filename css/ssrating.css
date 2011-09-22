@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+/**
+ * Star rating L-R panels 
+*/
+.ratings {
+	clear: right;
+	margin-bottom: 30px;
+	display: none;
+}
+.rating-L {
+	float: left;
+	margin-right: 1em;
+	white-space: nowrap;
+	width: 220px;
+}
+.rating-R {
+	float: right;
+	margin-left: 1em;
+		
+	white-space: nowrap;
+}
+
+#Form_ranking_info, #Form_ranking_vote {
+	margin: 0 0 0 0;
+	float:  right;
+}
+
+#placeholder {
+	background-color: #FFFFFF;
+}

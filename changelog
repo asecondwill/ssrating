@@ -1,0 +1,20 @@
+2010-02-28 - Initial release 0.0.01
+2010-03-01 - Version 0.0.02
+    * Added Text information: Average and Votes
+    * cancelShow: false for the rate vote
+2010-03-07 - Version 0.0.03
+	* Added jquery-1.4.min.js
+	* Added jquery-ui-1.7.2.custom.min.js
+	* jQuery Dialog to show table rating results
+2010-03-09 - Version 0.0.04
+	* Don't show rating popup if there's no rate
+2010-03-09 - Version 0.0.05
+	* Fixed stars images path
+2010-03-11 - Version 1.0.00
+	* Save sessionID
+	* Don't allow same sessionID write to the same pageID
+	* Template file (.ss) don't show the vote rate stars when is not unique vote
+	* Fixed Fade out Message
+	* Hide Stars Rate after user rates
+2010-04-01 - Version 1.1.01
+	* CurrentPage method compatibility 
